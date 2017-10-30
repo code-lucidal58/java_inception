@@ -4,6 +4,7 @@ A java file will always contain a class. Inside the class there will a  main fun
 E.g. public class Arithmetic {
 	public static void main(String[] args) {
     }}
+You can create Arthimetic class object inside the main class.
 System.out.println("Aanisha Mishra"); //to print to the console
 Boolean values are true and false.
 Basic Data Types: int, char, boolean.
@@ -12,3 +13,19 @@ Whitespace is one or more characters (such as a space, tab, enter, or return) th
 
 Java supports single line comments (//) and multi-line comments (/* */)
 Java has usual relational operators ( < > <= >= ).
+
+ Java programs can follow different sets of instructions depending on the values that we provide to them. This is called control flow.
+
+(&& and), (|| or), (! not) operator while performing condition check.
+Evaluation precedence: ! > && > ||
+
+Java supports if, if else, if else if else as cpp.
+Syntax for switch is same as cpp.
+
+Java is an object-oriented programming (OOP) language, which means that we can design classes, objects, and methods that can perform certain actions.
+Constructor Syntax: public ClassName(params){}
+Variables declared inside class are called instance variables.
+
+Creating instance of class: ClassName instanceName = new ClassName(params);
+Method declaration: public/private returntype methodname(params){}
+
