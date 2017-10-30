@@ -1,0 +1,14 @@
+Java is a programming language designed to build secure, powerful applications that run across multiple operating systems, including Linux, Mac OS X, and Windows. The Java language is known to be flexible, scalable, and maintainable.
+
+A java file will always contain a class. Inside the class there will a  main function (compulsary if you are run the file).
+E.g. public class Arithmetic {
+	public static void main(String[] args) {
+    }}
+System.out.println("Aanisha Mishra"); //to print to the console
+Boolean values are true and false.
+Basic Data Types: int, char, boolean.
+
+Whitespace is one or more characters (such as a space, tab, enter, or return) that do not produce a visible mark or text. Whitespace is often used to make code visually presentable. 
+
+Java supports single line comments (//) and multi-line comments (/* */)
+Java has usual relational operators ( < > <= >= ).
