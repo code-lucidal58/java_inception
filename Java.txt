@@ -29,3 +29,22 @@ Variables declared inside class are called instance variables.
 Creating instance of class: ClassName instanceName = new ClassName(params);
 Method declaration: public/private returntype methodname(params){}
 
+For loop: Syntax: same as cpp
+
+ArrayList (a pre-defined java class) stores a list of data of a specified type. E.g. ArrayList<Integer> quizGrades = new ArrayList<Integer>(); 
+// to add values to the arraylist
+quizGrades.add(95);
+quizGrades.get(index)
+quizGrades.add(index, value);
+.size() method to find length of ArrayList and HashMap.
+
+ForEach Loop: for (Integer grade : quizGrades){
+    System.out.println(grade);
+}
+
+A HashMap contains a set of keys and a value for each key.
+E.g. HashMap<String, Integer> myFriends = new HashMap<String, Integer>();
+myFriends.put(keyString, valueInteger);
+myFriends.get(keyString); // this will return value of the key
+
+Iterating through HashMap: for(String item: hashmapName.keySet()){}
