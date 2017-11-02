@@ -1,7 +1,7 @@
 // Mathematical Magic trick
 // answer will always be 7
 
-public class Magic{
+public class MathMagic{
     public static void main(String[] args){
         int myNumber = 6; // enter any number here
         int stepOne = myNumber * 2;

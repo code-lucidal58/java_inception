@@ -1,6 +1,6 @@
 // A program that will calculate the monthly car payment a user should expect to make after taking out a car loan.
 
-public class CarLoan {
+public class CarLoanCalculator {
 	public static void main(String[] args) {
     int carLoan = 10000; //enter your desired values in this and the next 3 variables.
     int loanLength = 3;

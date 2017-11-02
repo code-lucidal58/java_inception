@@ -1,7 +1,7 @@
 // To perform add, subtract, multiply, divide and modulo
 
-class Calculator{
-  public Calculator(){
+class BasicCalculator{
+  public BasicCalculator(){
     
   }
   
@@ -36,7 +36,7 @@ class Calculator{
   }
   
   public static void main(String[] args){
-    Calculator myCalculator = new Calculator();
+    BasicCalculator myCalculator = new BasicCalculator();
     System.out.println(myCalculator.add(5,7));
     System.out.println(myCalculator.subtract(45,11));
   }
