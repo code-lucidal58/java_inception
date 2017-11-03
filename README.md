@@ -1,4 +1,4 @@
-<b>This repo is for recapulation of basic syntax in use in Java. It also contains small projects to illustrate execution od common methods. Hope this helps people who have to switch languages often and are baffled by the varying styles of development. Keep rocking codes! ;)<b>
+<b>This repo is for recapulation of basic syntax in use in Java. It also contains small projects to illustrate execution od common methods. Hope this helps people who have to switch languages often and are baffled by the varying styles of development. Keep rocking codes! ;)</b>
 
 Java is a programming language designed to build secure, powerful applications that run across multiple operating systems, including Linux, Mac OS X, and Windows. The Java language is known to be flexible, scalable, and maintainable.
 
